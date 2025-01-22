@@ -1,0 +1,327 @@
+.navbar{
+    background-color: #37517e;
+}
+.navbar-nav{
+    gap: 5px;
+}
+.hero-banner{
+    background-color: #37517e;
+}
+
+.btn2{
+    border: 2px solid #47b2e4;
+}
+.v-divider {
+    width: 8% !important; /* Width of the vertical divider */
+    background-color: #47b2e4; /* Color of the divider */
+    height: 2px; /* Height of the divider */
+    margin-top: 13px !important; /* Spacing around the divider */
+    margin-bottom:13px
+}
+.sect-3{
+    background-color: #f5f6f8;
+}
+.prog{
+    border-radius: 0 !important;
+}
+.custom{
+    background-color: #37517e !important;
+}
+
+.sect-5{
+    background-color: #f5f6f8;
+}
+
+.card2{
+        box-shadow: 0px 5px 90px 0px rgba(0, 0, 0, 0.1);
+        padding: 50px 30px;
+        transition: all ease-in-out 0.4s;
+        height: 100%;
+}
+.card2:hover{
+    transform: translateY(-10px);
+}
+.card2:hover h5{
+    color: #47b2e4;
+}
+.call-to-action{
+    background-image: url(Assets/cta-bg.jpg);
+    background-size: cover;
+    object-fit: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#call-t-action{
+    background-color: rgba(38, 68, 97, 0.5); /* Semi-transparent overlay */
+    background-blend-mode: overlay;
+    opacity: 0.9;
+}
+
+#btn3{
+    border: 2px solid white;
+}
+
+.portfolio .im-5{
+    margin-top: -100px;
+}
+.portfolio .im-6{
+    margin-top: -130px;
+}
+.portfolio .im-7{
+    margin-top: -140px;
+}
+.portfolio .im-9{
+    margin-top: -33px;
+}
+
+
+.team a{
+    border-radius:50px;
+    background-color: #f4f4f4;
+    margin-right: 13px;
+    font-size: 20px;
+    color: black;
+}
+
+.team a:hover{
+    background-color: skyblue;
+    color: white !important;
+}
+
+.team .card{
+    transition: all ease-in-out 0.4s;
+    transform: 0.5ms;
+    padding: 20px 30px;
+}
+
+.pricing{
+    background-color: #f5f6f8;
+}
+
+.card-business{
+    border-top: 5px solid #47b2e4 !important;
+}
+.pricing .card{
+    padding: 60px 50px 60px 50px;
+    transition: all ease-in-out 0.4s;
+}
+.pricing .card .card-f3{
+    color: #37517e;
+}
+.pricing .card ul{
+    padding: 0;
+}
+.pricing .card ul li{
+    padding-bottom: 15px;
+}
+.btn-card{
+    border: 2px solid #47b2e4 !important;
+}
+.btn-card:hover{
+    background-color: #47b2e4 !important;
+    color: white !important;
+}
+
+.btn-card-1{
+    background-color:#47b2e4 !important;
+    color: white !important;
+}
+
+.testimonial{
+    padding-top: 50px !important;
+    padding-bottom: 90px !important;
+}
+.testimonial-img{
+    border-radius: 50%;
+    width: 150px;
+}
+
+.carousel-indicators{
+    margin-bottom: -50px !important;
+}
+.carousel-indicators button {
+            background-color: #007bff !important; /* Change to your desired color */
+            border-radius: 50%;
+            width: 20px !important; /* Size of the dots */
+            height: 20px !important; /* Size of the dots */
+        }
+.crousal-h3{
+    color: #37517e;
+}
+
+.faq{
+    background-color: #f5f6f8;
+}
+.container.container-cen {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordion-item:hover .accordion-button{
+    color:#007bff;
+}
+
+.icon-card{
+    padding: 10px;
+    background-color: #f5f6f8;
+}
+
+.map-container {
+    width: 280px; /* Set the width of the map */
+    height: 300px; /* Set the height of the map */
+}
+.main:hover .icon-card {
+    background-color: #47b2e4;
+    color: white !important;
+    transition: all ease-in-out 0.5s;
+}
+
+.card3{
+    border-top: 3px solid #47b2e4 !important;
+    border-bottom: 3px solid #47b2e4 !important;
+    box-shadow: 0px 5px 90px 0px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    margin-bottom: 10px;
+    font-size: 20px
+}
+
+.frm-border{
+    border: 1px solid #dadada;
+}
+
+.frmbtn{
+    background-color: #47b2e4 !important;
+}
+
+.join{
+    background-color: #f5f6f8;
+}
+
+.getinfotxt{
+    box-shadow: 0px 5px 90px 0px rgba(0, 0, 0, 0.2);
+    border: none;
+    width: 100%;
+    padding: 10px;
+}
+.getinfobtn{
+    border: none;
+    margin-left: -50px;
+    background-color: #47b2e4;
+    color: white;
+}
+.fticon{
+    font-size: 10px;
+    color:#47b2e4;
+}
+.link:hover a{
+    color:black !important;
+}
+ a{
+    text-decoration: none !important;
+    color: black !important;
+}
+a:hover{
+    color: #47b2e4 !important;
+}
+
+.fticon2{
+    border: 1px solid grey;
+    border-radius: 50px;
+    font-size: 22px !important;
+    transition: all ease-in-out 0.4s;
+}
+.fticon2:hover{
+    border-color: #47b2e4;
+}
+
+.footheading{
+    color: #37517e;
+}
+.foot-span{
+    color: #47b2e4;
+}
+
+@media only screen and (max-width:480px){
+    .portfolio .im-5{
+        margin-top: 0px;
+    }
+    .portfolio .im-6{
+        margin-top: 0px;
+    }
+    .portfolio .im-7{
+        margin-top: 0px;
+    }
+    .portfolio .im-9{
+        margin-top: 0px;
+    }
+
+    .team img{
+        margin-bottom: 25px;
+    }
+
+    .form-p{
+        width: 60%;
+    }
+
+    .map-container {
+        width: 200px; /* Set the width of the map */
+        height: 230px; /* Set the height of the map */
+    }
+
+    .navbar-nav{
+        margin-top: 10px;
+        background-color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .d-flex.justify-content-end.tbutton {
+        display: flex;
+        justify-content: start !important;
+        margin-left: 20px;
+    }
+    a.nav-link.active.text-white, a.nav-link.text-white {
+        color: black !important;
+        padding-left: 20px;
+    }
+}
+@media only screen and (max-width:768px) and (min-width: 481px){
+
+    .navbar-nav{
+        margin-top: 10px;
+        background-color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .d-flex.justify-content-end.tbutton {
+        display: flex;
+        justify-content: start !important;
+    }
+    a.nav-link.active.text-white, a.nav-link.text-white {
+        color: black !important;
+        padding-left: 20px;
+    }
+    .portfolio .im-5{
+        margin-top: -70px;
+    }
+    .portfolio .im-6{
+        margin-top: -95px;
+    }
+    .portfolio .im-7{
+        margin-top: -105px;
+    }
+    .portfolio .im-9{
+        margin-top: -30px;
+    }
+
+    .map-container {
+        width: 600px; /* Set the width of the map */
+        height: 300px; /* Set the height of the map */
+    }
+}
